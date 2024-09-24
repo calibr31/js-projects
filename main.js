@@ -1,3 +1,2 @@
 console.log('object')
-console.log('object')
-console.log('object')
+document.write("hello there")
